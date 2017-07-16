@@ -18,8 +18,9 @@ Mängd|Ingrediens
 3. Smält smöret.
 4. Bryt chokladen till mindre bitar och smält i smöret.
 5. Blanda till en jämn smet och låt svalna lite.
-6. Blanda mjöl och salt i smeten till en jämn massa.
-7. Hacka lakriskolorna ganska fint och rör ner i smeten.
-8. Häll smeten i formen.
-9. Grädda i nedre delen av ugnen i ca 15 minuter.
-10. Låt svalna helt, kakan kan gärna stå i kylen över natten.
+6. Vispa ägg och socker lätt och och rör ner i smeten.
+7. Blanda mjöl och salt i smeten till en jämn massa.
+8. Hacka lakriskolorna ganska fint och rör ner i smeten.
+9. Häll smeten i formen.
+10. Grädda i nedre delen av ugnen i ca 15 minuter.
+11. Låt svalna helt, kakan kan gärna stå i kylen över natten.
