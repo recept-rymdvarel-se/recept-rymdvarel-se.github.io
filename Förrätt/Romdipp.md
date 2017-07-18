@@ -22,5 +22,5 @@ Mängd| Ingrediens
 
 ## Utförande
 1. Hacka löken fint.
-2. Blanda samtliga tillbehör
+2. Blanda samtliga ingredienser.
 3. Låt stå i kylen innan servering.
