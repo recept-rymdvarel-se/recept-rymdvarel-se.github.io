@@ -25,10 +25,10 @@ Mängd|Ingrediens
 2. Skala, dela och finhacka lökarna.
 3. Fräs tills de fått fin färg.
 4. Tillsätt tomatpuré, krossade tomater, honung, buljongtärning, timjan och 4 dl vatten.
-5. Kika på medelvärme utan lock i ca 5 minuter.
+5. Koka på medelvärme utan lock i ca 5 minuter.
 6. Tillsätt spenaten och låt koka i 5 minuter till.
 7. Smaka av med salt och peppar.
-8. Skär haloumin i tunna skivor.
+8. Skär halloumin i tunna skivor.
 9. Varva tomatsås, lasagneplattor, pumpakärnor och halloumi i en ugnssäker form.
 10. Strö över osten.
 11. Grädda i mitten av ugnen i ca 20 minuter.
