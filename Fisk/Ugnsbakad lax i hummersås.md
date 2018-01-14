@@ -4,7 +4,7 @@
 
 Mängd|Ingrediens
 ------------ | -------------
-2 st|laxfiler
+4 st|laxfiler
 3 msk|hummerfond
 1 dl|vatten
 1 dl|créme fraiche
