@@ -22,6 +22,7 @@ Mängd| Ingrediens
 2. Pressa i vitlöken.
 3. Tillsätta 0,5 dl ströbröd, mjöl och 2 msk olivolja.
 4. Krydda och rör till en smet.
-5. Gör 4 biffar och stek i panna.
-6. Blanda yougurt och ingefära.
-7. Servera med yogurt-såsen.
+5. Gör biffar och och doppa dem i ströbröd.
+6. Stek i panna.
+7. Blanda yougurt och ingefära.
+8. Servera med yogurt-såsen.
