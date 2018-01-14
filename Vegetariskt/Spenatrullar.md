@@ -5,7 +5,7 @@
 Mängd|Ingrediens
 ------------ | -------------
 1 förpackning | fryst bladspenat
-1 förpackning | färska spenatplattor
+1 förpackning | färska pastaplattor
 1 förpackning | krossade tomater
 1 förpackning | feta
 2 dl | crème fraîche
