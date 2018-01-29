@@ -13,6 +13,7 @@ Mängd|Ingrediens
 
 ### Serveras med
 Mängd|Ingrediens
+------------ | -------------
 \-|Ris
 \-|mango chutney
 
