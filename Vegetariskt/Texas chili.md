@@ -15,7 +15,7 @@ Mängd|Ingrediens
 Mängd| Ingrediens
 ------------ | -------------
 4 portitoner | ris
-\- | gräddfil
+\- | Crème fraîche
 \- | nachochips
 \- | koriander
 
