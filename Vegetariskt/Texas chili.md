@@ -20,7 +20,8 @@ Mängd| Ingrediens
 \- | koriander
 
 ## Utförande
-1. Hacka och fräs löken.
-2. Tillsätt färsen och stek några minuter.
-3. Tillsätt de flytande ingredienserna och bönorna och låt puttra i 5 minuter.
-4. Smaka av med kryddor.
+1. Koka riset.
+2. Hacka och fräs löken.
+3. Tillsätt färsen och stek några minuter.
+4. Tillsätt de flytande ingredienserna och bönorna och låt puttra i 5 minuter.
+5. Smaka av med kryddor.
