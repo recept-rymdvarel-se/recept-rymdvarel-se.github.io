@@ -1,30 +1,32 @@
 # Kikärtscurry
 4 portioner
+
 ## Ingredienser
 
 Mängd|Ingrediens
 ------------ | -------------
-1 st|Gul lök
-2 st|Vitlöksklyftor
-2 tsk|Curry
-6-7 dl|Kikärtor (två burkar)
-4 dl|Kokosmjölk
-300g|Krossade tomater
-½ dl|Jordnötssmör
-2 st|Bananer
-\-|Soja
+1 st|gullök
+2 st|vitlöksklyftor
+2 tsk|curry
+2 burkar|kikärtor
+1 burk|kokosmjölk
+1 burk|krossade tomater
+½ dl|jordnötssmör
+2 st|bananer
+\-|soja
+\-|korianter
+\-|sambal oelek
 
-### Serveras med
-
+### Till servering
 Mängd| Ingrediens
 ------------ | -------------
-\-|Ris
-\-|Koriander
+\-|ris
 
 ## Utförande
 1. Koka riset enligt förpackning.
-2. Hacka löken och fräs tillsammans med curryn.
-3. Häll av kikärtorna.
-4. Blanda lökfräsen med kikärtorna, kokosmjölk, krossad tomat, jordnötsmör och låt koka i några minuter utan lock.
-5. Slanta i bananerna.
-6. Servera med ris och strö över koriander.
+2. Hacka lökarna och fräs tillsammans med curry.
+3. Skölj kikärtorna.
+4. Tillsätt kikärtorna, kokosmjölk, krossad tomat och jordnötssmör i grytan.
+5. Låt koka några minuter utan lock.
+6. Slanta bananerna och vänd ner i grytan.
+7. Smaka av med sojasås, koriander och sambal oelek.
