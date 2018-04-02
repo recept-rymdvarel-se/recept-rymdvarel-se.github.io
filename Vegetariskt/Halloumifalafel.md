@@ -1,4 +1,4 @@
-# Halloumifalaffel
+# Halloumifalafel
 4 portioner
 ## Ingredienser
 
