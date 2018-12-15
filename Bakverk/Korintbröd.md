@@ -5,7 +5,7 @@
 
 Mängd|Ingrediens
 ------------ | -------------
-213 g (200)|smör
+213 g (200)|socker
 213 g (200)|smör
 325 g| mjöl
 100 g|korinter
@@ -18,4 +18,4 @@ Mängd|Ingrediens
 4. Degen utrullas till en ganska tjock rulle (3-3,5cm i genomskärning) och får stå på kallt ställe till följande dag.
 5. Sätt ugnen på 200 ℃.
 6. Skär degen i ½ cm tjocka skivor och lägg på plåt, stora mellanrum. Anmärkning: Om degen ej är smidig inarbetas en klick smör.
-7. Grädda tills de är lätt gyllengula, ca 9 minuter.
+7. Grädda tills de är lätt gyllengula, ca 10 minuter.
