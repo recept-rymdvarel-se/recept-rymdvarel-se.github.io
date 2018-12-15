@@ -12,7 +12,7 @@ Mängd|Ingrediens
 1 msk|kanel
 1 tsk|bikarbonat
 1 tsk|bakpulver
-300 g|smör
+300 g|mjöl
 
 
 ## Utförande
