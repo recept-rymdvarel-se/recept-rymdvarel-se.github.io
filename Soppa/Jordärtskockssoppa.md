@@ -5,8 +5,8 @@
 
 Mängd|Ingrediens
 ------------ | -------------
-300g|jordärtskockor
-½ st|gullök
+400g|jordärtskockor
+1 st|gullök
 1 st|vitlöksklyfta
 1 msk|olja
 5 dl|vatten
