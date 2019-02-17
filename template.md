@@ -1,5 +1,13 @@
-# Title
+---
+layout: default
+title: 
+parent: Vegetariskt
+---
+
+# {{ page.title }}
+
 4 portioner
+
 ## Ingredienser
 
 Mängd|Ingrediens
