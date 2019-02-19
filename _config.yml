@@ -8,6 +8,7 @@ search_enabled: true
 remote_theme: pmarsceill/just-the-docs
 theme: "just-the-docs"
 exclude: ['template.md']
+permalink: pretty
 aux_links:
   "On GitHub":
     - "//github.com/recept-rymdvarel-se/recept-rymdvarel-se.github.io"
