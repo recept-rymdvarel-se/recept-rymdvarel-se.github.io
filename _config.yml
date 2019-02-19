@@ -6,3 +6,4 @@ url: "https://recept.rymdvarel.se" # the base hostname & protocol for your site,
 markdown: kramdown
 search_enabled: true
 remote_theme: pmarsceill/just-the-docs
+exclude: ['template.md']
