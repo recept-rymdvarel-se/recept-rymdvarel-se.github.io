@@ -32,7 +32,9 @@ Mängd| Ingrediens
 1. Hacka den gula och vita löken och fräs i en kastrull
 2. Tillsätt ärtor, mjölk och buljongtärningen.
 3. Koka i två minuter.
-4. Skär tomaterna i små tärningar
-5. Hacka rödlöken fint.
-6. Blanda tomater lök och dill.
-7. Servera soppan med salladsmixen, räkor och ett gott bröd.
+4. Mixa till slät soppa.
+5. Smaka av med salt och peppar.
+6. Skär tomaterna i små tärningar
+7. Hacka rödlöken fint.
+8. Blanda tomater lök och dill.
+9. Servera soppan med salladsmixen, räkor och ett gott bröd.
