@@ -1,6 +1,6 @@
 ---
 layout: default
-title:Bön-, halloumi- och spenat-burgare
+title: Bön-, halloumi- och spenat-burgare
 parent: Vegetariskt
 ---
 
