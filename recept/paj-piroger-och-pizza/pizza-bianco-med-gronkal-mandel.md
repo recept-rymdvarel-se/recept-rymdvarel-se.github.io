@@ -1,6 +1,6 @@
 ---
 layout: default
-title:Pizza Bianco med grönkål och mandel
+title: Pizza Bianco med grönkål och mandel
 parent: Paj, piroger & pizza
 ---
 
