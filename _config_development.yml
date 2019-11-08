@@ -1,0 +1,5 @@
+# Invoke `jekyll` with "--config _config.yml,_config_development.yml" in local
+# development to keep the correct theme and don't make GitHub complain.
+# E.g:
+# bundle exec jekyll serve --config _config.yml,_config_development.yml
+theme: "just-the-docs"
