@@ -1,4 +1,5 @@
 title: recept.rymdvarel.se
+logo: "/assets/images/logo.png"
 description: >- # this means to ignore newlines until "baseurl:"
     Yum yum yum! 🍕🍔🍝🍗🍜🌮
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,3 +12,4 @@ permalink: pretty
 aux_links:
   "On GitHub":
     - "//github.com/recept-rymdvarel-se/recept-rymdvarel-se.github.io"
+
