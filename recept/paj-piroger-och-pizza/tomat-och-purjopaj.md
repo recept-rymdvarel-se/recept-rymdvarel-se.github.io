@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Tomat- och purjopaj
 parent: Paj, piroger & pizza
 ---
 
