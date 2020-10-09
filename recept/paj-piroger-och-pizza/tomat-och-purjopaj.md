@@ -27,6 +27,7 @@ Mängd|Ingrediens
 ½ dl | mjöl
 2 ½ dl | grädde
 1 ½ dl | riven ost
+1 st | zucchini
 250 g | körsbärstomater
 \- | salt
 \- |peppar
@@ -41,8 +42,8 @@ Mängd|Ingrediens
 4. Förgrädda i 10 minuter
 
 ### Fyllning/stuvning
-1. Ansa och skiva purjon
-2. Stek tills den mjuknar
+1. Ansa och skiva purjon och tärna zucchini
+2. Stek tills de mjuknat
 3. Tillsätt rosmarin, salt och peppar
 4. Strö över mjölet och grädde. Låt koka i några minuter till en tjock stuvning
 5. Ta från värmen och tillsätt soltorkade tomater och osten
