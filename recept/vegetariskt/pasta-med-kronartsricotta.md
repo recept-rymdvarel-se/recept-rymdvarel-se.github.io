@@ -23,6 +23,7 @@ Mängd|Ingrediens
 \-|sambal
 
 ### Servera med
+------------ | -------------
 \-|hackade rostade mandlar
 \-|solrosfrön
 \-|ruccola
