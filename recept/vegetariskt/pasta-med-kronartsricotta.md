@@ -23,6 +23,7 @@ Mängd|Ingrediens
 \-|sambal
 
 ### Servera med
+Mängd|Ingrediens
 ------------ | -------------
 \-|hackade rostade mandlar
 \-|solrosfrön
