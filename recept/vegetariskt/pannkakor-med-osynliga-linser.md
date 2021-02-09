@@ -23,4 +23,4 @@ Mängd|Ingrediens
 1. Koka linserna enligt förpackning, låt svalna
 2. Mixa linserna med äggen och hälften av mjölken
 3. Tillsätt resten av mjölken, mjöl och salt och blanda till en smet
-4. Stek i smör
+4. Stek i smör eller grädda i ugnen 225℃  ca 25 minuter
