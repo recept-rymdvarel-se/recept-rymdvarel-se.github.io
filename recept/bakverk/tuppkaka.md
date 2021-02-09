@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tuppkakan
-parent: Vegetariskt
+parent: Bakverk
 ---
 
 # {{ page.title }}
