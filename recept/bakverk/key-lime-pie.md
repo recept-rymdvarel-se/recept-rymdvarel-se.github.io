@@ -25,6 +25,6 @@ Mängd|Ingrediens
 3. Blanda till en smet och tryck ut i en form
 4. Grädda skalet i 10 minuter
 5. Låt svalna
-6. Blanda koncentrat mjölk och lime-koncentratet
+6. Blanda kondenserad mjölk och lime-koncentratet
 7. Vänd ner äggulorna i smeten och fördela i pajskalet
 8. Grädda i 10 minuter
