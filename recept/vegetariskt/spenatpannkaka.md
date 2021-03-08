@@ -24,13 +24,13 @@ Mängd | Ingrediens
 Mängd | Ingrediens
 ------------ | -------------
 500 g | keso
-1 dl | pesto
+1 dl | pesto
 
 ### Serveras med
 
 Mängd | Ingrediens
 ------------ | -------------
-\- | rivna morötter
+\- | rivna morötter
 
 ## Utförande
 1. Mixa mjölk, ägg och spenat till en slät smet
