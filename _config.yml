@@ -12,4 +12,5 @@ permalink: pretty
 aux_links:
   "On GitHub":
     - "//github.com/recept-rymdvarel-se/recept-rymdvarel-se.github.io"
-
+plugins:
+  - jekyll-redirect-from

@@ -32,3 +32,6 @@ gem "just-the-docs"
 
 # Fix dependency/compile issues 2021-03-13.
 gem "kramdown-parser-gfm"
+
+# Redirect users if/when we move recipes around
+gem "jekyll-redirect-from"
