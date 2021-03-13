@@ -30,3 +30,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "just-the-docs"
 
+# Fix dependency/compile issues 2021-03-13.
+gem "kramdown-parser-gfm"
