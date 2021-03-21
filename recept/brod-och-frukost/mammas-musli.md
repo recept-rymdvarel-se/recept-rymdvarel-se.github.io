@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Mammas Müsli
-parent: Frukost & mellanmål
+parent: Bröd & Frukost
+redirect_from:
+  - /recept/frukost-och-mellanmal/mammas-musli/
 ---
 
 # {{ page.title }}
