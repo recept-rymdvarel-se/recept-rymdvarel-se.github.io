@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Key Lime Pie
-parent: Bakverk
+parent: Efterrätt & Fika
+redirect_from:
+  - /recept/bakverk/key-lime-pie/
 ---
 
 # {{ page.title }}

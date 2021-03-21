@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Mjölkchokladglass
-parent: Efterrätt
+parent: Efterrätt & Fika
+redirect_from:
+  - /recept/efterratt/mjolkchokladglass/
 ---
 
 # {{ page.title }}

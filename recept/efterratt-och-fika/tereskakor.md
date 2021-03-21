@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Mormor Margaretas Teres-kakor
-parent: Bakverk
+parent: Efterrätt & Fika
+redirect_from:
+  - /recept/bakverk/tereskakor/
 ---
 
 # {{ page.title }}

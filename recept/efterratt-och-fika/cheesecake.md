@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Cheesecake
-parent: Efterrätt
+parent: Efterrätt & Fika
+redirect_from:
+  - /recept/efterratt/cheesecake/
 ---
 
 # {{ page.title }}

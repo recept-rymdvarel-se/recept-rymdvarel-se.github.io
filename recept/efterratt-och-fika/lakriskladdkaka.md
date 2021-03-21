@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Lakriskladdkaka
-parent: Bakverk
+parent: Efterrätt & Fika
+redirect_from:
+  - /recept/bakverk/lakriskladdkaka/
 ---
 
 # {{ page.title }}

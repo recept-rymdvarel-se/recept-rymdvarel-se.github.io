@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Sivs kolasås
-parent: Efterrätt
+parent: Efterrätt & Fika
+redirect_from:
+  - /recept/efterratt/sivs-kolasas/
 ---
 
 # {{ page.title }}

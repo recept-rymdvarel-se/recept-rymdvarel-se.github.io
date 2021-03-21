@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Äppelpaj
-parent: Efterrätt
+parent: Efterrätt & Fika
+redirect_from:
+  - /recept/efterratt/applepaj/
 ---
 
 # {{ page.title }}

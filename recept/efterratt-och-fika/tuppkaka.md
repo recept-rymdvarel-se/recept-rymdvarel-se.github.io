@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Tuppkakan
-parent: Bakverk
+parent: Efterrätt & Fika
+redirect_from:
+  - /recept/bakverk/tuppkaka/
 ---
 
 # {{ page.title }}

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Netas fillimpa
-parent: Bakverk
+parent: Bröd & Frukost
+redirect_from:
+  - /recept/bakverk/netas-fillimpa/
 ---
 
 # {{ page.title }}

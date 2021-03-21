@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Äppelkräm ala Strandvägen
-parent: Efterrätt
+parent: Efterrätt & Fika
+redirect_from:
+  - /recept/efterratt/applekram-ala-strandvagen/
 ---
 
 # {{ page.title }}

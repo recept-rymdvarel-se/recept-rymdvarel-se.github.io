@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Farmor Birgits Herrgårds korintbröd
-parent: Bakverk
+parent: Efterrätt & Fika
+redirect_from:
+  - /recept/bakverk/korintbrod/
 ---
 
 # {{ page.title }}

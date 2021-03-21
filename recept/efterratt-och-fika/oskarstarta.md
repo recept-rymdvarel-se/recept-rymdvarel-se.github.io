@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Oskarstårta
-parent: Bakverk
+parent: Efterrätt & Fika
+redirect_from:
+  - /recept/bakverk/oskarstarta/
 ---
 
 # {{ page.title }}

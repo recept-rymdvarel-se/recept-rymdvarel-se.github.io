@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Scones med saffran
-parent: Bakverk
+parent: Bröd & Frukost
+redirect_from:
+  - /recept/bakverk/scones-med-saffaran/
 ---
 
 # {{ page.title }}

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Matiga muffins
-parent: Bakverk
+redirect_from:
+  - /recept/bakverk/matiga-muffins/
+parent: Bröd & Frukost
 ---
 
 # {{ page.title }}

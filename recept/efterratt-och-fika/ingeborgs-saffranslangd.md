@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Ingeborgs saffranslängd
-parent: Bakverk
+parent: Efterrätt & Fika
+redirect_from:
+  - /recept/bakverk/ingeborgs-saffranslangd/
 ---
 
 # {{ page.title }}
