@@ -9,6 +9,8 @@ redirect_from:
 
 # {{ page.title }}
 
+2 portioner
+
 ## Ingredienser
 
 Mängd|Ingrediens

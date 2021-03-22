@@ -8,7 +8,7 @@ redirect_from:
 
 # {{ page.title }}
 
-? portioner
+2 portioner
 
 ## Ingredienser
 
