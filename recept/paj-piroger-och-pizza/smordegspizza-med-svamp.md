@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Smördegspizza med svamp
-parent: Smårätter & Tillbehör
+parent: Paj, piroger & pizza
 redirect_from:
   - /recept/forratt/smordegspizza-med-svamp/
+  - /recept/smaratter-och-tillbehor/smordegspizza-med-svamp/
 ---
 
 # {{ page.title }}
