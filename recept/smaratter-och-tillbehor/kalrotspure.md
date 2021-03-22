@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Kålrotspuré
-parent: Vegetariskt
+parent: Smårätter & Tillbehör
+redirect_from:
+  - /recept/vegetariskt/kalrotspure/
 ---
 
 # {{ page.title }}

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Parmesansrostad blomkål
-parent: Vegetariskt
+parent: Smårätter & Tillbehör
+redirect_from:
+  - /recept/vegetariskt/parmesanrostad-blomkal/
 ---
 
 # {{ page.title }}

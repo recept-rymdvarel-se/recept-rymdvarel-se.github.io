@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Krispig potatis med örter
-parent: Vegetariskt
+parent: Smårätter & Tillbehör
+redirect_from:
+  - /recept/vegetariskt/potatis-med-orter/
 ---
 
 # {{ page.title }}

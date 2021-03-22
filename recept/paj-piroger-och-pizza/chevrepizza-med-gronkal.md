@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chévrepizza med grönkål
-parent: Vegetariskt
+parent: Paj, piroger & pizza
+redirect_from:
+  - /recept/vegetariskt/chevrepizza-med-gronkal/
 ---
 
 # {{ page.title }}
