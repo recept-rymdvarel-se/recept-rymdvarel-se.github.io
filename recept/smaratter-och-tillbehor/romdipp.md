@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Romdipp
-parent: Förrätt
+parent: Smårätter & Tillbehör
+redirect_from:
+  - /recept/forratt/romdipp/
 ---
 
 # {{ page.title }}

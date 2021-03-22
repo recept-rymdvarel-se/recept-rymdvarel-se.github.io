@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Smördegspizza med svamp
-parent: Förrätt
+parent: Smårätter & Tillbehör
+redirect_from:
+  - /recept/forratt/smordegspizza-med-svamp/
 ---
 
 # {{ page.title }}
