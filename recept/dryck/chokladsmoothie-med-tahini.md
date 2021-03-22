@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chokladsmoothie med tahini
-parent: Frukost & mellanmål
+parent: Dryck
+redirect_from:
+  - /recept/frukost-och-mellanmal/chokladsmoothie-med-tahini/
 ---
 
 # {{ page.title }}

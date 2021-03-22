@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Julsmoothie
-parent: Frukost & mellanmål
+parent: Dryck
+redirect_from:
+  - /recept/frukost-och-mellanmal/julsmoothie/
 ---
 
 # {{ page.title }}

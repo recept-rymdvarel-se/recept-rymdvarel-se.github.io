@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Smoothie med kiwi
-parent: Frukost & mellanmål
+parent: Dryck
+redirect_from:
+  - /recept/frukost-och-mellanmal/smoothie-med-kiwi/
 ---
 
 # {{ page.title }}
