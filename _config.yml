@@ -13,3 +13,9 @@ aux_links:
     - "//github.com/recept-rymdvarel-se/recept-rymdvarel-se.github.io"
 plugins:
   - jekyll-redirect-from
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/logo.png
