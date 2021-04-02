@@ -24,9 +24,9 @@ Mängd| Ingrediens
 ------------ | -------------
 400 g | färs (nöt eller soja)
 1 påse | tacomix
-1,5 msk | hackade jalapenose
-2 dl | créme fraiche paprika & chili
+2 dl | créme fraiche
 3 st | tomater
+\-| sambal oelek
 \- | riven ost
 
 ## Utförande
@@ -41,9 +41,8 @@ Mängd| Ingrediens
 
 ### Fyllning
 1. Stek köttfärsåsen enligt instruktion på mix-paketet.
-2. Tillsätt jalapenose.
-3. Lägg fyllningen i det förgräddade pajskalet.
-4. Bred över créme fraichen.
-5. Skiva tomaterna och täck pajen.
-6. Ganera med riven ost.
-7. Grädda i ugnen i 15 minuter.
+2. Lägg fyllningen i det förgräddade pajskalet.
+3. Blanda sambal oelek och créme fraichen och bred på fyllningen
+4. Skiva tomaterna och täck pajen.
+5. Ganera med riven ost.
+6. Grädda i ugnen i 15 minuter.
