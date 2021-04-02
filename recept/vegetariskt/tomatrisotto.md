@@ -20,7 +20,7 @@ Mängd|Ingrediens
 1 msk | tomatpuré
 1 dl | vitt vin
 1 kruka | basilika
-150 g | smör
+100 g | smör
 100 g | riven parmesanost
 \- | salt
 \- | peppar
@@ -38,7 +38,7 @@ Mängd|Ingrediens
 6. Tillsätt löken och tomatpurén.
 7. Häll på vin och låt koka in.
 8. Räck riset med varm buljong.
-9. Salta
-10. Tärna plommontomaterna och lägg dem i kastrullen och låt koka med riset på svag värme i ca 15 minuter.
-11. Fyll på med buljong vid behov.
-12. Hacka basilikan och tillsätt tillsammans med smör och parmesan.
+9. Tärna plommontomaterna och lägg dem i kastrullen och låt koka med riset på svag värme i ca 15 minuter.
+10. Fyll på med buljong vid behov.
+11. Hacka basilikan och tillsätt tillsammans med smör och parmesan.
+12. Smaka av med kryddor
