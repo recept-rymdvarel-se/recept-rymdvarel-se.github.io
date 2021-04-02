@@ -1,7 +1,6 @@
 title: recept.rymdvarel.se
 logo: "/assets/images/logo.png"
-description: >- # this means to ignore newlines until "baseurl:"
-    Yum yum yum! 🍕🍔🍝🍗🍜🌮
+description: "Onaturligt gott 👽🍔"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://recept.rymdvarel.se" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
