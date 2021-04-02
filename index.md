@@ -6,4 +6,4 @@ layout: default
 title: Start
 nav_order: 1
 ---
-![Yummy in my tummy!](http://i.imgur.com/IbJ1zMq.jpg)
+![Yummy in my tummy!](./assets/images/blown-kitchen.jpg)
