@@ -4,7 +4,7 @@ title: Start
 nav_order: 1
 ---
 # recept.rymdvarel.se
-Bara recept godkända av Sälen
+En samling av recept godkända av Sälen
 ![Seal of Approval](./assets/images/seal-of-approval.png)
 
 ## Top Four
