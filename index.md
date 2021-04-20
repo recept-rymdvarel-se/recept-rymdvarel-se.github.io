@@ -10,10 +10,10 @@ En samling av recept godkända av Sälen
 ## Top Four
 Enkla rätter som alltid går hem
 
-| Namn        | Kategori          | Kommentar |
+| Namn        | Kommentar          | Kategori |
 |:-------------|:------------------|:------|
-|[Lasagne på halloumi och spenat](./recept/vegetariskt/lasange-pa-halloumi-och-spenat/)|[Vegetariskt](./recept/vegetariskt/)|Alltid ett säkert kort i hushållet|
-|[Mackans bolognese på svarta linser](./recept/vegetariskt/bolognese-pa-svarta-linser/)|[Vegetariskt](./recept/vegetariskt/)|Enkel och god|
-|[Pannkakor med osynliga linser](./recept/vegetariskt/pannkakor-med-osynliga-linser/)|[Vegetariskt](./recept/vegetariskt/)|Smart sätt att få i sig linser för de smakar inte linser. "Nyttiga" pannkakor|
-|[Röd curry med tofu](./recept/vegetariskt/rod-curry-med-tofu/)|[Vegetariskt](./recept/vegetariskt/)|Smakrik tofu-rätt|
-|[Pirog med färs](./recept/paj-piroger-och-pizza/pirog-med-fars/)|[Paj, piroger & pizza](./recept/paj-piroger-och-pizza/)|Enkla och kan fyllas med lite vad som helst|
+|[Lasagne på halloumi och spenat](./recept/vegetariskt/lasange-pa-halloumi-och-spenat/)|Alltid ett säkert kort i hushållet|[Vegetariskt](./recept/vegetariskt/)|
+|[Mackans bolognese på svarta linser](./recept/vegetariskt/bolognese-pa-svarta-linser/)|Enkel och god|[Vegetariskt](./recept/vegetariskt/)|
+|[Pannkakor med osynliga linser](./recept/vegetariskt/pannkakor-med-osynliga-linser/)|Smart sätt att få i sig linser för de smakar inte linser. "Nyttiga" pannkakor|[Vegetariskt](./recept/vegetariskt/)|
+|[Röd curry med tofu](./recept/vegetariskt/rod-curry-med-tofu/)|Smakrik tofu-rätt|[Vegetariskt](./recept/vegetariskt/)|
+|[Pirog med färs](./recept/paj-piroger-och-pizza/pirog-med-fars/)|Enkla och kan fyllas med lite vad som helst|[Paj, piroger & pizza](./recept/paj-piroger-och-pizza/)|
