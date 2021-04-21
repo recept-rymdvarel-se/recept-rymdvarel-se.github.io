@@ -1,3 +1,3 @@
 # Recept
 
-![Yummy in my tummy!](http://i.imgur.com/IbJ1zMq.jpg)
+![Yummy in my tummy!](https://recept.rymdvarel.se/assets/images/blown-kitchen.jpg)
