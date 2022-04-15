@@ -24,9 +24,9 @@ Mängd|Ingrediens
 ------------ | -------------
 1 st | purjo
 ½ msk | torkad rosmarin
-100 g | strimlade soltorkade tomater
-½ dl | mjöl
-2 ½ dl | grädde
+100 g | strimlade soltorkade tomater
+½ dl | mjöl
+2 ½ dl | grädde
 1 ½ dl | riven ost
 1 st | zucchini
 250 g | körsbärstomater
