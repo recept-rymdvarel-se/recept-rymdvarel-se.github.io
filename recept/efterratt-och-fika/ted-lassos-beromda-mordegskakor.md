@@ -31,4 +31,5 @@ Mängd|Ingrediens
 3. Tärna smöret
 4. Blanda långsamt ihop smöret med de torra ingredienserna i en köksmaskin eller elvisp. Degen är färdig när den är härligt smulig
 5. Pressa ut i en 22 x 33 cm form (med bakplåtspapper i) och nagga med en gaffel
-6. Grädda i ugnen 50 - 60 minuter
+6. Grädda i ugnen 40 - 50 minuter (eller tills kakan fått en fin färg)
+7. Skär genast upp i rutor innan den kallnar
