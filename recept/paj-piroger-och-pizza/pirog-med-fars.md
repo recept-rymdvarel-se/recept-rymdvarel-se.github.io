@@ -12,7 +12,7 @@ parent: Paj, piroger & pizza
 Mängd|Ingrediens
 ------------ | -------------
 1 paket (ca 400g) | smördeg
-300 g | färs (nöt eller soja)
+400 g | färs (nöt eller soja)
 2 dl | Créme fraiche tomat & basilika
 1 st | tomat
 100g | riven ost
