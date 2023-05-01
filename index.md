@@ -7,6 +7,19 @@ nav_order: 1
 En samling onaturligt goda recept godkända av Sälen
 ![Seal of Approval](./assets/images/seal-of-approval.png)
 
+## Kategorier (because gammal iOS inte kan hantera menyer)
+
+* [Bröd & Frukost](./recept/brod-och-frukost)
+* [Dryck](./recept/dryck)
+* [Efterrätt & Fika](./recept/efterratt-och-fika)
+* [Fisk](./recept/fisk)
+* [Kött](./recept/kott)
+* [Paj, piroger & pizza](./recept/paj-piroger-och-pizza)
+* [Smårätter & Tillbehör](./recept/smaratter-och-tillbehor)
+* [Soppa](./recept/soppa)
+* [Vegetariskt](./recept/vegetariskt)
+* [Arkivet](./recept/arkivet/arkivet)
+
 ## Top Four
 Enkla rätter som alltid går hem
 
