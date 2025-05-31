@@ -16,8 +16,8 @@ Recept från [Köket.se](https://www.koket.se/grundrecept-pa-overnight-oats).
 
 Mängd|Ingrediens
 ------------ | -------------
-2 dl (öka något för ett saftigare reslutat)|fiberberikade havregryn
-2 dl|havredryck
+2 dl|fiberberikade havregryn
+2 dl (öka något för ett saftigare reslutat)|havredryck
 1 msk|chiafrön
 1 tsk|kanel
 1 krm|vaniljpulver
