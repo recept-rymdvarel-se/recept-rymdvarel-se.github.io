@@ -10,7 +10,6 @@ parent: Bröd & Frukost
 
 Recept från [Köket.se](https://www.koket.se/grundrecept-pa-overnight-oats).
 
-Öka havredrycken något för ett saftigare reslutat.
 ## Ingredienser
 
 ### Bas
