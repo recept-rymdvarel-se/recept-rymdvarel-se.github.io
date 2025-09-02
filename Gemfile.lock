@@ -72,6 +72,7 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    webrick (1.9.1)
 
 PLATFORMS
   ruby
@@ -84,6 +85,7 @@ DEPENDENCIES
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo-data
+  webrick (~> 1.9)
 
 BUNDLED WITH
    2.2.33

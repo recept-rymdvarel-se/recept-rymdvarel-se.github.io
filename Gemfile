@@ -35,3 +35,5 @@ gem "kramdown-parser-gfm"
 
 # Redirect users if/when we move recipes around
 gem "jekyll-redirect-from"
+
+gem "webrick", "~> 1.9"
