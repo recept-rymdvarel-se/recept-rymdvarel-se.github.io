@@ -16,6 +16,8 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/assets/images/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
+{% comment %}Keep-screen-awake toggle: recipe pages only, i.e. pages with a parent category.{% endcomment %}
+{% if page.parent %}
 <script src="/assets/js/wake-lock.js" defer></script>
 <style>
 .wake-lock-toggle {
@@ -52,3 +54,4 @@
   }
 }
 </style>
+{% endif %}
