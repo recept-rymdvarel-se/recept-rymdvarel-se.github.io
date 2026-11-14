@@ -1,39 +1,28 @@
 /**
- * Floating toggle that keeps the screen awake while cooking.
- * Off on every page load. While on, the lock is re-acquired when the page
- * becomes visible again, since browsers release it whenever the page is hidden.
- * Loaded with `defer`, so the body exists when this runs.
+ * Keep-screen-awake toggle for the buttons rendered by _includes/nav_footer_custom.html.
+ * The theme renders that include twice (sidebar and mobile footer), so every
+ * `.wake-lock-toggle` shares one lock and one state. Off on every page load.
+ * While on, the lock is re-acquired when the page becomes visible again, since
+ * browsers release it whenever the page is hidden.
+ * Loaded with `defer`, so the buttons exist when this runs.
  */
 (() => {
-  if (!("wakeLock" in navigator)) return;
+  const buttons = document.querySelectorAll(".wake-lock-toggle");
+  if (!("wakeLock" in navigator) || buttons.length === 0) return;
 
-  const OFF = { icon: "🔅", label: "Håll skärmen tänd" };
-  const ON = { icon: "🔆", label: "Skärmen hålls tänd" };
+  const LABEL_OFF = "🔅 Håll skärmen tänd";
+  const LABEL_ON = "🔆 Skärmen hålls tänd";
 
   let wanted = false;
   let wakeLock = null;
 
-  const button = document.createElement("button");
-  button.type = "button";
-  button.className = "btn wake-lock-toggle";
-
-  const icon = document.createElement("span");
-  icon.setAttribute("aria-hidden", "true");
-  // The text label is hidden on narrow screens by CSS; aria-label keeps it accessible.
-  const label = document.createElement("span");
-  label.className = "wake-lock-toggle-label";
-  label.setAttribute("aria-hidden", "true");
-  button.append(icon, label);
-
   const render = () => {
     const on = wakeLock !== null;
-    const state = on ? ON : OFF;
-    icon.textContent = state.icon;
-    label.textContent = state.label;
-    button.setAttribute("aria-label", state.label);
-    button.title = state.label;
-    button.setAttribute("aria-pressed", String(on));
-    button.classList.toggle("btn-primary", on);
+    for (const button of buttons) {
+      button.textContent = on ? LABEL_ON : LABEL_OFF;
+      button.setAttribute("aria-pressed", String(on));
+      button.classList.toggle("btn-primary", on);
+    }
   };
 
   const acquire = async () => {
@@ -66,7 +55,9 @@
     if (wanted) acquire();
   });
 
-  button.addEventListener("click", toggle);
+  for (const button of buttons) {
+    button.addEventListener("click", toggle);
+    button.closest(".wake-lock-toggle-wrap").hidden = false;
+  }
   render();
-  document.body.appendChild(button);
 })();
