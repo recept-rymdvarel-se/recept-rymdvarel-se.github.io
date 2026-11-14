@@ -16,6 +16,21 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/assets/images/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
+<style>
+/* The theme hardcodes "No results found" in its JS; swap it for Swedish. */
+.search-no-result {
+  font-size: 0;
+}
+.search-no-result::after {
+  content: "Inga träffar";
+  font-size: 0.875rem;
+}
+@media (min-width: 50rem) {
+  .search-no-result::after {
+    font-size: 1rem;
+  }
+}
+</style>
 {% comment %}Keep-screen-awake toggle: recipe pages only, i.e. pages with a parent category.{% endcomment %}
 {% if page.parent %}
 <script src="/assets/js/wake-lock.js" defer></script>
