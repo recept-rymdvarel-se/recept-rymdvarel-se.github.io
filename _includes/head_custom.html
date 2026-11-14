@@ -17,17 +17,21 @@
 <meta name="msapplication-TileImage" content="/assets/images/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 <style>
-/* The theme hardcodes "No results found" in its JS; swap it for Swedish. */
+/*
+ * The theme hardcodes "No results found" in its JS; swap it for Swedish.
+ * The theme sets this font size with !important (fs-3 mixin), so ours must too.
+ * Sizes mirror fs-3: 0.75rem, and 0.875rem from the sm breakpoint (31.25rem).
+ */
 .search-no-result {
-  font-size: 0;
+  font-size: 0 !important;
 }
 .search-no-result::after {
   content: "Inga träffar";
-  font-size: 0.875rem;
+  font-size: 0.75rem;
 }
-@media (min-width: 50rem) {
+@media (min-width: 31.25rem) {
   .search-no-result::after {
-    font-size: 1rem;
+    font-size: 0.875rem;
   }
 }
 </style>
