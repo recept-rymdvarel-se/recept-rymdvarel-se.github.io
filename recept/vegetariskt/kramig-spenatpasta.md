@@ -12,7 +12,6 @@ parent: Vegetariskt
 
 Mängd|Ingrediens
 ------------ | -------------
-\-|pasta
 1 st|lök
 400 g|fryst bladspenat
 130 g|pesto
@@ -25,6 +24,7 @@ Mängd|Ingrediens
 
 Mängd| Ingrediens
 ------------ | -------------
+\-|pasta
 1 dl|pinjenötter eller valnötter (valfritt)
 
 ## Utförande
