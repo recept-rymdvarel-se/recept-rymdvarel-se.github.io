@@ -7,8 +7,8 @@
 (() => {
   if (!("wakeLock" in navigator)) return;
 
-  const LABEL_OFF = "🔅 Håll skärmen tänd";
-  const LABEL_ON = "🔆 Skärmen hålls tänd";
+  const OFF = { icon: "🔅", label: "Håll skärmen tänd" };
+  const ON = { icon: "🔆", label: "Skärmen hålls tänd" };
 
   let wanted = false;
   let wakeLock = null;
@@ -17,9 +17,21 @@
   button.type = "button";
   button.className = "btn wake-lock-toggle";
 
+  const icon = document.createElement("span");
+  icon.setAttribute("aria-hidden", "true");
+  // The text label is hidden on narrow screens by CSS; aria-label keeps it accessible.
+  const label = document.createElement("span");
+  label.className = "wake-lock-toggle-label";
+  label.setAttribute("aria-hidden", "true");
+  button.append(icon, label);
+
   const render = () => {
     const on = wakeLock !== null;
-    button.textContent = on ? LABEL_ON : LABEL_OFF;
+    const state = on ? ON : OFF;
+    icon.textContent = state.icon;
+    label.textContent = state.label;
+    button.setAttribute("aria-label", state.label);
+    button.title = state.label;
     button.setAttribute("aria-pressed", String(on));
     button.classList.toggle("btn-primary", on);
   };
