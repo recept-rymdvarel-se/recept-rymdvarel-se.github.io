@@ -2,6 +2,7 @@
 layout: default
 title: Grönkålspaj
 parent: Paj, piroger & pizza
+added: 2019-12-28
 ---
 
 # {{ page.title }}

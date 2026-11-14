@@ -2,6 +2,7 @@
 layout: default
 title: Mackans bolognese på svarta linser
 parent: Vegetariskt
+added: 2017-09-05
 ---
 
 # {{ page.title }}

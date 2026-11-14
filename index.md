@@ -30,3 +30,13 @@ Enkla rätter som alltid går hem
 |[Pannkakor med osynliga linser](./recept/vegetariskt/pannkakor-med-osynliga-linser/)|Smart sätt att få i sig linser för de smakar inte linser. "Nyttiga" pannkakor|[Vegetariskt](./recept/vegetariskt/)|
 |[Röd curry med tofu](./recept/vegetariskt/rod-curry-med-tofu/)|Smakrik tofu-rätt|[Vegetariskt](./recept/vegetariskt/)|
 |[Pirog med färs](./recept/paj-piroger-och-pizza/pirog-med-fars/)|Enkla och kan fyllas med lite vad som helst|[Paj, piroger & pizza](./recept/paj-piroger-och-pizza/)|
+
+## Senast tillagt
+De senaste rätterna i samlingen
+
+{% comment %}Recipe pages (with a parent category and an `added:` date), newest first; archived ones excluded.{% endcomment %}
+{% assign recent = site.pages | where_exp: "p", "p.added" | where_exp: "p", "p.parent" | where_exp: "p", "p.parent != 'Arkivet'" | sort: "added" | reverse %}
+| Namn        | Kategori          | Tillagd |
+|:-------------|:------------------|:------|
+{% for r in recent limit: 5 %}{% assign category = site.pages | where: "title", r.parent | first %}|[{{ r.title }}]({{ r.url | relative_url }})|[{{ r.parent }}]({{ category.url | relative_url }})|{{ r.added | date: "%Y-%m-%d" }}|
+{% endfor %}

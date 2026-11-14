@@ -2,6 +2,7 @@
 layout: default
 title: Mjölkchokladglass
 parent: Efterrätt & Fika
+added: 2020-10-09
 redirect_from:
   - /recept/efterratt/mjolkchokladglass/
 ---

@@ -2,6 +2,7 @@
 layout: default
 title: Broccolirisotto
 parent: Vegetariskt
+added: 2018-09-11
 ---
 
 # {{ page.title }}

@@ -2,6 +2,7 @@
 layout: default
 title: Lasagnesoppa 
 parent: Soppa
+added: 2024-05-08
 ---
 
 # {{ page.title }}

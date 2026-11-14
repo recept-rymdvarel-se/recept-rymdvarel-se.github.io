@@ -2,6 +2,7 @@
 layout: default
 title: Röd curry med tofu
 parent: Vegetariskt
+added: 2020-02-08
 ---
 
 # {{ page.title }}

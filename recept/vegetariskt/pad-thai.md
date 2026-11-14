@@ -2,6 +2,7 @@
 layout: default
 title: Pad Thai
 parent: Vegetariskt
+added: 2020-06-11
 ---
 
 # {{ page.title }}

@@ -2,6 +2,7 @@
 layout: default
 title: Smördegspizza med svamp
 parent: Paj, piroger & pizza
+added: 2018-09-11
 redirect_from:
   - /recept/forratt/smordegspizza-med-svamp/
   - /recept/smaratter-och-tillbehor/smordegspizza-med-svamp/

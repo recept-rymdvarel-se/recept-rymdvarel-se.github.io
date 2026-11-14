@@ -2,6 +2,7 @@
 layout: default
 title: Netas fillimpa
 parent: Bröd & Frukost
+added: 2017-06-28
 redirect_from:
   - /recept/bakverk/netas-fillimpa/
 ---

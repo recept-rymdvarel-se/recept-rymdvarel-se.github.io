@@ -2,6 +2,7 @@
 layout: default
 title: Pizza Bianco med grönkål och mandel
 parent: Paj, piroger & pizza
+added: 2019-11-07
 ---
 
 # {{ page.title }}

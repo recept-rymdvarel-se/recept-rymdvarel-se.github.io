@@ -2,6 +2,7 @@
 layout: default
 title: Mammas Müsli
 parent: Bröd & Frukost
+added: 2017-06-03
 redirect_from:
   - /recept/frukost-och-mellanmal/mammas-musli/
 ---

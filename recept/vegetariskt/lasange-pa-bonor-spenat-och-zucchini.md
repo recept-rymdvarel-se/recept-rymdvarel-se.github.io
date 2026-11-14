@@ -2,6 +2,7 @@
 layout: default
 title: Lasagne på bönor, spenat och zucchini
 parent: Vegetariskt
+added: 2017-06-03
 ---
 
 # {{ page.title }}

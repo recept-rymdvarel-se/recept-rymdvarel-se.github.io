@@ -2,6 +2,7 @@
 layout: default
 title: Grönkålsskallad med äpple
 parent: Smårätter & Tillbehör
+added: 2018-01-14
 redirect_from:
   - /recept/vegetariskt/gronkalssallad-med-apple/
 ---

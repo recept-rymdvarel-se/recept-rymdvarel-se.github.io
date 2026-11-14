@@ -2,6 +2,7 @@
 layout: default
 title: Krämig rödkålssallad
 parent: Smårätter & Tillbehör 
+added: 2024-04-17
 ---
 
 # {{ page.title }}

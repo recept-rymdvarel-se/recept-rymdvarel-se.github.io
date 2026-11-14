@@ -2,6 +2,7 @@
 layout: default
 title: Oskarstårta
 parent: Efterrätt & Fika
+added: 2019-02-11
 redirect_from:
   - /recept/bakverk/oskarstarta/
 ---

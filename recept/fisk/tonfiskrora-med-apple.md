@@ -2,6 +2,7 @@
 layout: default
 title: Tonfiskröra med äpple
 parent: Fisk
+added: 2017-06-05
 ---
 
 # {{ page.title }}

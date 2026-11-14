@@ -2,6 +2,7 @@
 layout: default
 title: Lax med rotfrukter och grönkålspesto
 parent: Fisk
+added: 2019-02-11
 ---
 
 # {{ page.title }}

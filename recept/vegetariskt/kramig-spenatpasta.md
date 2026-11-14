@@ -2,6 +2,7 @@
 layout: default
 title: Krämig spenatpasta
 parent: Vegetariskt
+added: 2026-11-14
 ---
 
 # {{ page.title }}

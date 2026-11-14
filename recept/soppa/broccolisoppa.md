@@ -2,6 +2,7 @@
 layout: default
 title: Broccolisoppa
 parent: Soppa
+added: 2020-05-11
 ---
 
 # {{ page.title }}

@@ -2,6 +2,7 @@
 layout: default
 title: Ärt och spenatsoppa
 parent: Soppa
+added: 2023-01-06
 ---
 
 # {{ page.title }}

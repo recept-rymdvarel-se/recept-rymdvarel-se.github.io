@@ -2,6 +2,7 @@
 layout: default
 title: Lakriskladdkaka
 parent: Efterrätt & Fika
+added: 2017-06-03
 redirect_from:
   - /recept/bakverk/lakriskladdkaka/
 ---

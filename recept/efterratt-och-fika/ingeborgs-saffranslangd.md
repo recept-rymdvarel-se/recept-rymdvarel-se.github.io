@@ -2,6 +2,7 @@
 layout: default
 title: Ingeborgs saffranslängd
 parent: Efterrätt & Fika
+added: 2017-06-03
 redirect_from:
   - /recept/bakverk/ingeborgs-saffranslangd/
 ---

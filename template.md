@@ -2,6 +2,7 @@
 layout: default
 title: 
 parent: Vegetariskt
+added: # dagens datum, t.ex. 2026-11-14 (styr "Senast tillagt" på startsidan)
 ---
 
 # {{ page.title }}

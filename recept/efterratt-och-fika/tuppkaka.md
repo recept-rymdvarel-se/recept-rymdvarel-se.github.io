@@ -2,6 +2,7 @@
 layout: default
 title: Tuppkakan
 parent: Efterrätt & Fika
+added: 2021-02-09
 redirect_from:
   - /recept/bakverk/tuppkaka/
 ---

@@ -2,6 +2,7 @@
 layout: default
 title: Ugnsbakad lax i hummersås
 parent: Fisk
+added: 2017-06-28
 ---
 
 # {{ page.title }}

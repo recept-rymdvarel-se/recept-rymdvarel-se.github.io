@@ -2,6 +2,7 @@
 layout: default
 title: Zucchiniplättar med fetaost & dill
 parent: Vegetariskt
+added: 2019-12-28
 ---
 
 # {{ page.title }}

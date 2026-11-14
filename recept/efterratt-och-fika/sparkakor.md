@@ -2,6 +2,7 @@
 layout: default
 title: Spårkakor
 parent: Efterrätt & Fika
+added: 2025-01-09
 ---
 
 # {{ page.title }}

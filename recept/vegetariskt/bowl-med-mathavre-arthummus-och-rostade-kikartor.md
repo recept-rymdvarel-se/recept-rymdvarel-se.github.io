@@ -2,6 +2,7 @@
 layout: default
 title: Bowl med mathavre, ärthummos och rostade kikärtor
 parent: Vegetariskt
+added: 2019-04-10
 ---
 
 # {{ page.title }}

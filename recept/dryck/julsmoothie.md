@@ -2,6 +2,7 @@
 layout: default
 title: Julsmoothie
 parent: Dryck
+added: 2018-02-22
 redirect_from:
   - /recept/frukost-och-mellanmal/julsmoothie/
 ---

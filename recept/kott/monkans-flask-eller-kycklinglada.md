@@ -2,6 +2,7 @@
 layout: default
 title: Monkans fläsk eller kycklinglåda
 parent: Kött
+added: 2017-06-03
 ---
 
 # {{ page.title }}

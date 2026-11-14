@@ -2,6 +2,7 @@
 layout: default
 title: Biffar på morötter och halloumi
 parent: Vegetariskt
+added: 2019-01-12
 ---
 
 # {{ page.title }}

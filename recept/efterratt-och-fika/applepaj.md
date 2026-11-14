@@ -2,6 +2,7 @@
 layout: default
 title: Äppelpaj
 parent: Efterrätt & Fika
+added: 2019-05-09
 redirect_from:
   - /recept/efterratt/applepaj/
 ---

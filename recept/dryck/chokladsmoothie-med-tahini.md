@@ -2,6 +2,7 @@
 layout: default
 title: Chokladsmoothie med tahini
 parent: Dryck
+added: 2018-02-22
 redirect_from:
   - /recept/frukost-och-mellanmal/chokladsmoothie-med-tahini/
 ---

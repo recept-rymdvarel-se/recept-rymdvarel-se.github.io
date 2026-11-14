@@ -2,6 +2,7 @@
 layout: default
 title: Grön ärtsoppa med räkor
 parent: Soppa
+added: 2018-08-26
 ---
 
 # {{ page.title }}

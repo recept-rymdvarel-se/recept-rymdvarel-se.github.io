@@ -2,6 +2,7 @@
 layout: default
 title: Pirog med färs
 parent: Paj, piroger & pizza
+added: 2017-06-03
 ---
 
 # {{ page.title }}

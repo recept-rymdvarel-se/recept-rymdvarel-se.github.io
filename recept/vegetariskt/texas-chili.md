@@ -2,6 +2,7 @@
 layout: default
 title: Texas chili
 parent: Vegetariskt
+added: 2017-06-03
 ---
 
 # {{ page.title }}

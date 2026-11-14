@@ -2,6 +2,7 @@
 layout: default
 title: Pasta med kronärtsricotta
 parent: Vegetariskt
+added: 2021-02-08
 ---
 
 # {{ page.title }}

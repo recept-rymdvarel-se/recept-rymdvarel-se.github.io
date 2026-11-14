@@ -2,6 +2,7 @@
 layout: default
 title: Pasta á la Ellinor
 parent: Vegetariskt
+added: 2020-07-23
 ---
 
 # {{ page.title }}

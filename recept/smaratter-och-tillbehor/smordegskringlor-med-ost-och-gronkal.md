@@ -2,6 +2,7 @@
 layout: default
 title: Smördegskringlor med ost och grönkål
 parent: Smårätter & Tillbehör
+added: 2024-01-28
 ---
 
 # {{ page.title }}

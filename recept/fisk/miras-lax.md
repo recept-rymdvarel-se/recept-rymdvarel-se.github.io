@@ -2,6 +2,7 @@
 layout: default
 title: Miras lax
 parent: Fisk
+added: 2020-10-09
 ---
 
 # {{ page.title }}

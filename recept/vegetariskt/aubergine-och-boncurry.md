@@ -2,6 +2,7 @@
 layout: default
 title: Aubergine- och böncurry
 parent: Vegetariskt
+added: 2018-09-02
 ---
 
 # {{ page.title }}

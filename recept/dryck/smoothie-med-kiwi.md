@@ -2,6 +2,7 @@
 layout: default
 title: Smoothie med kiwi
 parent: Dryck
+added: 2017-06-05
 redirect_from:
   - /recept/frukost-och-mellanmal/smoothie-med-kiwi/
 ---

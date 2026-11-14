@@ -2,6 +2,7 @@
 layout: default
 title: Rökiga rostade kikärtor
 parent: Smårätter & Tillbehör
+added: 2019-04-11
 redirect_from:
   - /recept/vegetariskt/rokiga-rostade-kikartor/
 ---

@@ -2,6 +2,7 @@
 layout: default
 title: Sparris- och rädissallad med sesamdressing
 parent: Smårätter & Tillbehör
+added: 2019-05-09
 redirect_from:
   - /recept/vegetariskt/sparris-och-radissallad/
 ---

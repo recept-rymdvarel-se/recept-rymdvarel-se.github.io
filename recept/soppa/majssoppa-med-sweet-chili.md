@@ -2,6 +2,7 @@
 layout: default
 title: Majssoppa med sweet chili
 parent: Soppa
+added: 2021-04-19
 ---
 
 # {{ page.title }}

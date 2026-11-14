@@ -2,6 +2,7 @@
 layout: default
 title: Jordärtskokpuré
 parent: Smårätter & Tillbehör
+added: 2022-01-23
 ---
 
 # {{ page.title }}

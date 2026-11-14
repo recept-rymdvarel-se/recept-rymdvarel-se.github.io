@@ -2,6 +2,7 @@
 layout: default
 title: Kikärtspuckar med mandel
 parent: Vegetariskt
+added: 2019-01-23
 ---
 
 # {{ page.title }}

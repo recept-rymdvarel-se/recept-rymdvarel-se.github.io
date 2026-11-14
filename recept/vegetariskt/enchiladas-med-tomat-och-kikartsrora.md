@@ -2,6 +2,7 @@
 layout: default
 title: Enchiladas med tomat- och kikärtsröra
 parent: Vegetariskt
+added: 2019-02-10
 ---
 
 # {{ page.title }}

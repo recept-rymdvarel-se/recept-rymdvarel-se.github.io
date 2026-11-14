@@ -2,6 +2,7 @@
 layout: default
 title: Äppel- och valnötssallad
 parent: Smårätter & Tillbehör
+added: 2019-01-12
 redirect_from:
   - /recept/vegetariskt/apple-och-valnotssallad/
 ---

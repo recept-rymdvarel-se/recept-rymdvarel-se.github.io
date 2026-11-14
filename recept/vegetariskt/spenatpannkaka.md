@@ -2,6 +2,7 @@
 layout: default
 title: Spenatpannkaka med örtkeso
 parent: Vegetariskt
+added: 2020-10-09
 ---
 
 # {{ page.title }}

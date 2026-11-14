@@ -2,6 +2,7 @@
 layout: default
 title: Canneloni med ricotta, svamp & ajvar
 parent: Vegetariskt
+added: 2018-06-13
 ---
 
 # {{ page.title }}

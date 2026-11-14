@@ -2,6 +2,7 @@
 layout: default
 title: Fläskfilegryta
 parent: Kött
+added: 2018-02-04
 ---
 
 # {{ page.title }}

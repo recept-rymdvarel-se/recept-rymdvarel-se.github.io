@@ -2,6 +2,7 @@
 layout: default
 title: Pannkakor med osynliga linser
 parent: Vegetariskt
+added: 2019-11-18
 ---
 
 # {{ page.title }}

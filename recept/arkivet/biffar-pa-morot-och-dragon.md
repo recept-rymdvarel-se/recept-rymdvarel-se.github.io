@@ -2,6 +2,7 @@
 layout: default
 title: Biffar på morot och dragon
 parent: Arkivet
+added: 2017-06-03
 ---
 
 # {{ page.title }}

@@ -2,6 +2,7 @@
 layout: default
 title: Tahini-nudlar med tofu
 parent: Vegetariskt
+added: 2024-06-04
 ---
 
 # {{ page.title }}

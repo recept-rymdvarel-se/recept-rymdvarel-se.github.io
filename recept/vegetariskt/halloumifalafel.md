@@ -2,6 +2,7 @@
 layout: default
 title: Halloumifalafel
 parent: Vegetariskt
+added: 2018-04-02
 ---
 
 # {{ page.title }}

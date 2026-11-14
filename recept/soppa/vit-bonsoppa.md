@@ -2,6 +2,7 @@
 layout: default
 title: Vit bönsoppa
 parent: Soppa
+added: 2024-04-17
 ---
 
 # {{ page.title }}

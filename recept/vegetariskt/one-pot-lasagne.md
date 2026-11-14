@@ -2,6 +2,7 @@
 layout: default
 title: One pot lasagne med linser och svamp
 parent: Vegetariskt
+added: 2024-04-17
 ---
 
 # {{ page.title }}

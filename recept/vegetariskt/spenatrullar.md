@@ -2,6 +2,7 @@
 layout: default
 title: Spenatrullar
 parent: Vegetariskt
+added: 2017-06-03
 ---
 
 # {{ page.title }}

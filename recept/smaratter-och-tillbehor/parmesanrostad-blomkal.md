@@ -2,6 +2,7 @@
 layout: default
 title: Parmesansrostad blomkål
 parent: Smårätter & Tillbehör
+added: 2019-04-10
 redirect_from:
   - /recept/vegetariskt/parmesanrostad-blomkal/
 ---

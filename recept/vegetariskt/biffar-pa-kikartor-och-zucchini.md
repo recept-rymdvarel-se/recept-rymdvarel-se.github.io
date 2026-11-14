@@ -2,6 +2,7 @@
 layout: default
 title: Biffar på kikärtor och zucchini
 parent: Vegetariskt
+added: 2017-06-03
 ---
 
 # {{ page.title }}

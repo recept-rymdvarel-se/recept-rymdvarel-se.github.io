@@ -2,6 +2,7 @@
 layout: default
 title: Ärtrisotto
 parent: Vegetariskt
+added: 2024-01-28
 ---
 
 # {{ page.title }}

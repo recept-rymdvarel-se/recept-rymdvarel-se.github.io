@@ -2,6 +2,7 @@
 layout: default
 title: Broccolipaj
 parent: Paj, piroger & pizza
+added: 2026-11-14
 ---
 
 # {{ page.title }}

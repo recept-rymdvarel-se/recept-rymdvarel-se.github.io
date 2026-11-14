@@ -2,6 +2,7 @@
 layout: default
 title: Romdipp
 parent: Smårätter & Tillbehör
+added: 2017-07-18
 redirect_from:
   - /recept/forratt/romdipp/
 ---

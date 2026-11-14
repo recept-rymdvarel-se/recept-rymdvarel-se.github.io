@@ -2,6 +2,7 @@
 layout: default
 title: Tomat- och purjopaj
 parent: Paj, piroger & pizza
+added: 2020-10-09
 ---
 
 # {{ page.title }}

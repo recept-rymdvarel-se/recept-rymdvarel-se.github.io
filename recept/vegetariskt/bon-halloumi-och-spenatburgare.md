@@ -2,6 +2,7 @@
 layout: default
 title: Bön-, halloumi- och spenat-burgare
 parent: Vegetariskt
+added: 2019-04-10
 ---
 
 # {{ page.title }}

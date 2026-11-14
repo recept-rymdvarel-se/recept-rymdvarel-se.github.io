@@ -2,6 +2,7 @@
 layout: default
 title: Curry med kokosmjölk och grillost
 parent: Vegetariskt
+added: 2021-03-13
 ---
 
 # {{ page.title }}

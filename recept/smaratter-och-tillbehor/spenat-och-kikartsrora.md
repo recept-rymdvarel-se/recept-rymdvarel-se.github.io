@@ -2,6 +2,7 @@
 layout: default
 title: Spenat- och kikärtsröra
 parent: Smårätter & Tillbehör
+added: 2019-04-11
 redirect_from:
   - /recept/vegetariskt/spenat-och-kikartsrora/
 ---

@@ -2,6 +2,7 @@
 layout: default
 title: Kalasgryta
 parent: Vegetariskt
+added: 2019-02-11
 ---
 
 # {{ page.title }}

@@ -2,6 +2,7 @@
 layout: default
 title: Majs & Kesoplättar
 parent: Vegetariskt
+added: 2020-06-09
 ---
 
 # {{ page.title }}

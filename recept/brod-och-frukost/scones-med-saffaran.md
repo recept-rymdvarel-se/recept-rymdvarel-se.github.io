@@ -2,6 +2,7 @@
 layout: default
 title: Scones med saffran
 parent: Bröd & Frukost
+added: 2017-06-05
 redirect_from:
   - /recept/bakverk/scones-med-saffaran/
 ---

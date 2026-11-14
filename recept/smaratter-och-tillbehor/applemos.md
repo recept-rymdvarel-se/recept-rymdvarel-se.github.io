@@ -2,6 +2,7 @@
 layout: default
 title: Äppelmos
 parent: Smårätter & Tillbehör
+added: 2017-11-19
 redirect_from:
   - /recept/frukost-och-mellanmal/applemos/
 ---

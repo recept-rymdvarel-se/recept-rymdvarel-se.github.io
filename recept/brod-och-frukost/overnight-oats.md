@@ -2,6 +2,7 @@
 layout: default
 title: Overnight oats
 parent: Bröd & Frukost
+added: 2025-05-31
 ---
 
 # {{ page.title }}

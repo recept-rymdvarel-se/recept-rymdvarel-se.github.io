@@ -2,6 +2,7 @@
 layout: default
 title: Grön ärtsoppa
 parent: soppa
+added: 2020-05-11
 ---
 
 # {{ page.title }}

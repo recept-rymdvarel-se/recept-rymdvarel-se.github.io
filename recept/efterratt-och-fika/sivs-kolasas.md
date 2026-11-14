@@ -2,6 +2,7 @@
 layout: default
 title: Sivs kolasås
 parent: Efterrätt & Fika
+added: 2017-11-19
 redirect_from:
   - /recept/efterratt/sivs-kolasas/
 ---

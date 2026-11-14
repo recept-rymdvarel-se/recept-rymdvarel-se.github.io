@@ -2,6 +2,7 @@
 layout: default
 title: Indisk lax
 parent: Fisk
+added: 2017-06-03
 ---
 
 # {{ page.title }}

@@ -2,6 +2,7 @@
 layout: default
 title: Kaffe med Clever Dripper
 parent: Dryck
+added: 2021-03-22
 ---
 
 # {{ page.title }}

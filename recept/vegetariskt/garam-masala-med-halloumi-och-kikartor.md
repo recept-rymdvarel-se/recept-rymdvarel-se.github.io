@@ -2,6 +2,7 @@
 layout: default
 title: Garam masala med halloumi och kikärtor
 parent: Vegetariskt
+added: 2018-01-29
 ---
 
 # {{ page.title }}

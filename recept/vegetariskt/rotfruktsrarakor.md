@@ -2,6 +2,7 @@
 layout: default
 title: Rotfruktsrårakor
 parent: Vegetariskt
+added: 2020-07-23
 ---
 
 # {{ page.title }}

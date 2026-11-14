@@ -2,6 +2,7 @@
 layout: default
 title: Jordärtskockssoppa
 parent: Soppa
+added: 2019-02-10
 ---
 
 # {{ page.title }}

@@ -2,6 +2,7 @@
 layout: default
 title: Vitlöksstekta haricots vert med ingefära och mandel
 parent: Smårätter & Tillbehör
+added: 2020-09-26
 redirect_from:
   - /recept/vegetariskt/vitlokssteka-hiricots-verts/
 ---

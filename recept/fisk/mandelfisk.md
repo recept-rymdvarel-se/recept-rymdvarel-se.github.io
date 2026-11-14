@@ -2,6 +2,7 @@
 layout: default
 title: Mandelfisk
 parent: Fisk
+added: 2017-09-05
 ---
 
 # {{ page.title }}
